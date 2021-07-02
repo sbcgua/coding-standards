@@ -1,2 +1,1 @@
-# coding-standards
-SBCG Coding standards and recommendations
+# SBCG Coding standards and recommendations
