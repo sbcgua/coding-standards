@@ -41,4 +41,4 @@ P.S. All the externally linked materials belong to their authors or public domai
 4) Automated testing
 5) Usability
 6) Useful links
-7) Junior developer baseline (abap)
+7) [Junior developer baseline (abap)](./EN/07%20-%20junior%20developer%20baseline.md)
