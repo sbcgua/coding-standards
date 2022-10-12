@@ -56,6 +56,7 @@ Not limited to (obviously, all the basic language constructs are assumed), but t
 - JSON
 - XSLT
 - Base64
+- Encoding and code pages: unicode, utf16, utf8, ansi, cp1251 ...
 
 ### Git
 
